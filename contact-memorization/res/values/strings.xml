@@ -4,5 +4,8 @@
     <string name="app_name">contact-memorization</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="getcontacts">Import contacts?</string>
+    <string name="yessir">Yes, please. </string>
+    <string name="startgame">Start the game? </string>
 
 </resources>
